@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1 Score
+Random Forest,1.0,1.0,1.0,1.0
+SVM (RBF Kernel),0.9,0.9,1.0,0.9474
+XGBoost,0.9667,0.9643,1.0,0.9818
